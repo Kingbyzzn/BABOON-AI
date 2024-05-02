@@ -13,7 +13,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐁𝐀𝐁𝐎𝐎𝐍_𝐋𝐔𝐂𝐀𝐒-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254741188211yoh+𝐁𝐚𝐛𝐨𝐨𝐧⸼ +nishow+venye+nitadeploy+baboon-ai'"><img title="Whatsapp" src="'https://wa.me/254741188211yoh+𝐁𝐚𝐛𝐨𝐨𝐧⸼ +nishow+venye+nitadeploy+baboon'?color=green&style=flat-square"></a>
+
   
 
 
@@ -60,7 +60,7 @@ Linking/Pairing:[https://replit.com/@pesguru02/Pairing-Classic-Ai]
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Samue-l1/Black-Mamba-Ai/fork)
+- Fork this repo by tapping  [here](https://github.com/ninty629/BABOON-AI/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -77,14 +77,14 @@ Linking/Pairing:[https://replit.com/@pesguru02/Pairing-Classic-Ai]
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254741188211) via WhatsApp 
+Incase you're facing any problems with the deployments, contact me  [here](https://wa.me/254741188211) via WhatsApp 
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
 
-[MIT License](https://github.com/Samue-l1/Black-Mamba-Ai/blob/main/LICENSE)
+[MIT License](https://github.com/ninty629/BABOON-AI/blob/main/LICENSE)
 
 Copyright (c) 2024  𝐁𝐀𝐁𝐎𝐎𝐍
 
