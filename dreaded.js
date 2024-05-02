@@ -808,7 +808,7 @@ function _0x40c6() {
         '27989tCQoID',
         '168765oAXpMe',
         'ate',
-        'Classic\x20ha',
+        'Baboon\x20ha',
         '422RQjzbp',
         '\x20removed!',
         'No\x20virtual',
@@ -1909,7 +1909,7 @@ case "movie":
              let txt = `*_</ 𝐁𝐀𝐁𝐎𝐎𝐍 𝐁𝐎𝐓𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}_*` 
              await client.sendMessage(i, { 
                  image: { 
-                     url: "https://telegra.ph/file/1c75ece8f02d98e044e2e.jpg" 
+                     url: "https://telegra.ph/file/65dea60c7871da2573656.jpg" 
                  }, 
                  caption: `${txt}` 
              }) 
