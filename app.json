@@ -14,18 +14,18 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Samue-l1/Black-Mamba-Ai#readme",
-  "repository": "https://github.com/Samue-l1/Black-Mamba-Ai.git",
+  "website": "https://github.com/ninty629/BABOON-AI#readme",
+  "repository": "https://github.com/ninty629/BABOON-AI.git",
   "logo": "https://telegra.ph/file/de1e1073b8a908e9af1d6.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of Classic-ai Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of Baboon-ai Ex: . , / , # , & etc. Put any symbol",
        "required": true
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254102074064, 254729553638 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254741188211 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
